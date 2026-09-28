@@ -1,0 +1,6 @@
+data/
+ea.duckdb
+*.duckdb
+__pycache__/
+*.pyc
+Thumbs.db

@@ -1,0 +1,7 @@
+label,offer_cost,save_value,save_rate,best_threshold,best_net_value
+Base case,1.0,15.0,0.25,0.25,1715.0
+Cheaper offer,0.5,15.0,0.25,0.15,3988.0
+More expensive offer,3.0,15.0,0.25,0.65,-13.5
+Lower save rate,1.0,15.0,0.1,0.65,-1.0
+Higher save rate,1.0,15.0,0.4,0.2,5213.0
+Higher player value,1.0,30.0,0.25,0.15,7976.0
